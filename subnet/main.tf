@@ -5,5 +5,6 @@ resource "azurerm_subnet" "name" {
   address_prefixes     = var.subnetaddress
 }
 
-my name is lakhan
+my name is lakhan xyz
+
 
